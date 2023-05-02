@@ -4,10 +4,13 @@
 
 **Basic functionality:**
 
+somehow needs to be not visible to the public, can use Vercel deployment thing or some auth provider (Slack auth?)
+
 - [ ] maybe have a list of “providers” (airtable form bases) that can be easily added to that feed into one todo list?
 - [ ] I think the main page should look something like the Bank admin task dashbooard. Mail mission name and number of pending requests.
-- [ ] Show page (mail-viewer.hc.com/baseId/recId) would show all the relevant information (address, name, date, etc, and instructions on how to fulfill this type of mail mission)
-  - [ ] and :white_check_mark: or :x: reject button that writes to Airtable
+- [ ] show page for table/type-of-mail-mission (mail-viewer.hc.com/baseId) would show a list of all the address info etc., and instructins on how to process that particular mail mission type
+  - [ ] show page for specific mail mission (mail-viewer.hc.com/baseId/recordId) would show all the info for that specific request
+    - [ ] and :white_check_mark: or :x: reject button that writes to Airtable
 
 **New features that might be in scope, in order of reasonableness:**
 
