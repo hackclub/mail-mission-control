@@ -25,6 +25,6 @@ somehow needs to be not visible to the public, can use Vercel deployment thing o
 
 - ~~[ ] automated label purchasing~~
 
-**A plan?**
-nextjs, serverless, using airtable as a database
+**A plan?**  
+nextjs, serverless, using airtable as a database  
 MVP: sync from various airtable databases into one central one, show it as a list on the dashboard, and allow you to mark requests as "done" - all authenticated thru slack
